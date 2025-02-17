@@ -1,0 +1,2 @@
+Loss from validation data: 0.366927832365036, Accuracy from validation data: 0.875, Recall from validation data: 1.0 
+Loss from test data: 1.4605014324188232, Accuracy from test data: 0.75, Recall from test data: 0.9820512533187866
