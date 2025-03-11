@@ -66,19 +66,19 @@ For further questions or support, contact:
 
 # File Structure
 
-project/
-├── README.md # Setup instructions, dependencies, data source
-├── data/
-│ ├── test/ # Test dataset
-│ └── val/ # Validation dataset
-├── notebooks/
-│ ├── 01_eda.ipynb # Exploratory Data Analysis
-│ ├── 02_preprocessing.ipynb # Data cleaning & preparation
-│ ├── 03_modeling.ipynb # Model development & training
-│ └── 04_evaluation.ipynb # Results & interpretation
-├── results/ 
-│ ├── figures/ # Generated visualizations
-│ ├── models/ # Saved model checkpoints
-│ └── metrics/ # Performance evaluations
-└── docs/
-  └── video/ # Code walkthrough video
+project/  
+├── README.md # Setup instructions, dependencies, data source  
+├── data/  
+│ ├── test/ # Test dataset  
+│ └── val/ # Validation dataset  
+├── notebooks/  
+│ ├── 01_eda.ipynb # Exploratory Data Analysis  
+│ ├── 02_preprocessing.ipynb # Data cleaning & preparation  
+│ ├── 03_modeling.ipynb # Model development & training  
+│ └── 04_evaluation.ipynb # Results & interpretation  
+├── results/   
+│ ├── figures/ # Generated visualizations  
+│ ├── models/ # Saved model checkpoints  
+│ └── metrics/ # Performance evaluations  
+└── docs/  
+  └── video/ # Code walkthrough video  
