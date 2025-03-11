@@ -60,9 +60,9 @@ If you are training the model, make sure to download it and ensure the dataset i
 
 Results such as accuracy plots, recall graphs, and false positive visualizations are saved in the results directory.
 
-For further questions or support, contact:
-    - Adin Sacho-Tanzer [Adin.SachoTanzer@cooper.edu]
-    - Gabriel Kret [gabriel.kret@cooper.edu]
+For further questions or support, contact:  
+    - Adin Sacho-Tanzer [Adin.SachoTanzer@cooper.edu]  
+    - Gabriel Kret [gabriel.kret@cooper.edu]  
 
 # File Structure
 
